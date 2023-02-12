@@ -1,13 +1,7 @@
 # Breast Cancer Classification 
-
-**Contributors:**
-  1. Heesuk Jang 
-  2. Kesha Julien
-  3. Rachael Phillips
-  4. Tatianna Martinez
   
 **Purpose:**
-  Intro to Machine Learning (w207) - UC Berkeley
+  Applied Machine Learning (w207) - UC Berkeley, Fall 2022
 
 **Objective:** 
   <i> 
