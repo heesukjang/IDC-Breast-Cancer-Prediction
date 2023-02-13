@@ -2,6 +2,12 @@
   
 **Course:**
   Applied Machine Learning (w207) - UC Berkeley, Fall 2022
+  
+**Contributors:**
+- Heesuk Jang
+- Tatianna Martinez
+- Kesha Julien
+- Rachael Phillips
 
 **Objective:** 
   <i> 
