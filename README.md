@@ -1,6 +1,6 @@
 # Breast Cancer Classification 
   
-**Purpose:**
+**Course:**
   Applied Machine Learning (w207) - UC Berkeley, Fall 2022
 
 **Objective:** 
