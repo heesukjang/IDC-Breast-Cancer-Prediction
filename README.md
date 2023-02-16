@@ -11,5 +11,5 @@
 
 **Objective:** 
   <i> 
-  Our goal is to classisfy breast cancer mount slide images into cancerous vs. non-cancerous. These images were obtained from the [Kaggle website](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images). We trained SVM (Support Vector Machine) as a baseline model and then four additional models with include Random Forest, XGBoost, CNN (Convolutional Neural Network), and CNN with transfer learning. 
+  Our goal is to classisfy breast cancer mount slide images into cancerous vs. non-cancerous. These images were obtained from the [Kaggle website](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images). We trained SVM (Support Vector Machine) as a baseline model and then three additional models with include Random Forest, CNN (Convolutional Neural Network), and CNN with transfer learning. 
   </i>
